@@ -6,7 +6,6 @@ const data = require('../../data/testData.json');
 const inputValues4 = require('../../helpers/inputValues4.js');
 const inputValues4andClick = require('../../helpers/inputValues4andClick.js');
 
-   // gygkygkjjkhgjkh
 describe('My Little Hero', function () {
 
     describe('GETTING TO THE PAGE', function () {
